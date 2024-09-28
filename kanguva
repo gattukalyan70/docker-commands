@@ -1,0 +1,10 @@
+docker commands promt 
+1 docker
+ 2 docker ps 
+3 docker ps -a
+4 docker stop 
+"give container id"
+5 docker start "give container id"
+
+note: above commands apply in windows power shel then docker desktop app 
+inside automatick reflected whick container stop  & container start also 
